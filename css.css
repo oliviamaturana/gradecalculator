@@ -10,7 +10,6 @@ h1 {
 
     margin: auto;
     width: 50%;
-    border: 3px black solid;
     text-align: center;
     font-family: "Plantagenet Cherokee";
     font-size: 22px;
@@ -18,7 +17,6 @@ h1 {
 
 #currentBtn {
     text-align: center;
-    border: 2px red solid;
     font-size: 10px;
     font-family: "Plantagenet Cherokee";
     font-size: 12px;
